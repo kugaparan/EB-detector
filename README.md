@@ -13,10 +13,10 @@
 
 <!-- Drop a screenshot or GIF here once you have one (see DEMO TIPS in the publishing guide). -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d88c83ea-1468-4c37-b6d1-8202d9ea0ccd" alt="EB Detector result" width="300">
+  <img src="https://github.com/user-attachments/assets/d88c83ea-1468-4c37-b6d1-8202d9ea0ccd" alt="EB Detector result" width="400">
 </p>
 
-*The app draws a bounding box and confidence score around each detected [object], and flags **CODE RED** when confidence exceeds 85%.*
+*The app draws a bounding box and confidence score around each detected EMPTY BUNCH OF PALM FRUIT, and flags **CODE RED** when confidence exceeds 85%.*
 
 ## What it does
 
