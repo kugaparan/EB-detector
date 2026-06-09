@@ -1,0 +1,3 @@
+# Copy this file to ".env" and fill in your real key, OR set it as a system
+# environment variable. Never commit your real key to GitHub.
+ROBOFLOW_API_KEY=your_key_here

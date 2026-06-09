@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Result outputs
+*_result.jpg
+*_result.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
