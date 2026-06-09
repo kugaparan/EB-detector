@@ -13,7 +13,7 @@
 
 <!-- Drop a screenshot or GIF here once you have one (see DEMO TIPS in the publishing guide). -->
 <p align="center">
-  <img src="docs/demo.png" alt="EB Detector result" width="600">
+  <img src="https://github.com/user-attachments/assets/d88c83ea-1468-4c37-b6d1-8202d9ea0ccd" alt="EB Detector result" width="300">
 </p>
 
 *The app draws a bounding box and confidence score around each detected [object], and flags **CODE RED** when confidence exceeds 85%.*
@@ -111,4 +111,4 @@ Released under the MIT License — see [LICENSE](LICENSE).
 
 ## Author
 
-**Kuga** — [LinkedIn](https://www.linkedin.com/in/your-handle) · [GitHub](https://github.com/your-username)
+**Kugaparan** — [LinkedIn](https://www.linkedin.com/in/kugaparan) · [GitHub](https://github.com/kugaparan)
